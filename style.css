@@ -1,0 +1,8 @@
+body{font-family:Arial,sans-serif;background:#eef2f7;display:flex;justify-content:center;padding:40px}
+.box{background:#fff;padding:30px;border-radius:8px;width:380px;box-shadow:0 2px 10px rgba(0,0,0,.1)}
+h2{margin-top:0;color:#1f4e79}
+input,textarea{width:100%;padding:9px;margin:6px 0 14px;border:1px solid #ccc;border-radius:4px;box-sizing:border-box}
+button{width:100%;padding:10px;background:#1f4e79;color:#fff;border:0;border-radius:4px;cursor:pointer}
+.msg{padding:8px;border-radius:4px;margin-bottom:12px}.ok{background:#d4edda}.err{background:#f8d7da}
+table{border-collapse:collapse;width:100%;margin-top:20px}td,th{border:1px solid #ccc;padding:6px;font-size:13px}
+a{color:#1f4e79}
